@@ -76,6 +76,7 @@ body::before {
 <a href="https://torokoid.github.io/2024May25_kenmin/20240525_014.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May25_kenmin/20240525_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024May25_kenmin/20240525_015.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May25_kenmin/20240525_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024May25_kenmin/20240525_016.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May25_kenmin/20240525_016.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">いつもの羽黒山が、右下に見渡せます。</span></h3>
 <a href="https://torokoid.github.io/2024May25_kenmin/20240525_017.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May25_kenmin/20240525_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2024May25_kenmin/20240525_018.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May25_kenmin/20240525_018.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">山の上では小鳥の囀りが響き渡って、都会の喧騒を忘れさせてくれました</span></h3>
